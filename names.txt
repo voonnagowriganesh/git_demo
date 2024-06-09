@@ -1,4 +1,7 @@
 Voonna Gowri Ganesh is from Vijayawada,Andhra Pradesh.
 He is an demon God
+<<<<<<< HEAD
 Demon is also an creatures.
 hi srk college
+=======
+>>>>>>> parent of ee26fcc (add 2 lines)
